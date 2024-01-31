@@ -23,3 +23,7 @@
 hs_err_pid*
 replay_pid*
 /.idea/
+/Junit_RestAssured/gradle/
+/Junit_RestAssured/.gradle/
+/Junit_RestAssured/build/
+/Junit_RestAssured/gradle/
